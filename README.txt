@@ -1,4 +1,2 @@
 ola
-fudeu
 tudo bem?
-
